@@ -1,1 +1,3 @@
 Ovo je proba, da vidim da li ce da se okine na push req
+
+Ovo je izmena koju hocu da vidim na vm
